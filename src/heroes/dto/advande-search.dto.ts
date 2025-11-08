@@ -5,7 +5,6 @@ export class AdvancedSearchDto {
   @IsOptional()
   name?: string;
 
-  // Search by team, category, universe, status and force
   @IsString()
   @IsOptional()
   team?: string;

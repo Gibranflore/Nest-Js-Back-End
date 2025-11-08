@@ -15,25 +15,11 @@ $ npm install
 ## Para correr de manera local
 
 ```bash
-# desarrollo
+# desarrollo (si no corre probar con el segundo)
 $ npm run start
 
-# modo desarrollo
+# modo desarrollo (es recomendable usar este)
 $ npm run start:dev
 
-# modo Produccion
-$ npm run start:prod
-```
 
-## Run tests
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
